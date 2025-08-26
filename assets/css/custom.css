@@ -40,39 +40,45 @@
 
 /* --- Default styles for Light Mode --- */
 /* Target the main content area for better specificity */
-.hb-page-wrapper {
-  color: #212529 !important; /* A dark, near-black color. !important gives it extra priority. */
+
+html:not(.dark) .bio-text,
+html:not(.dark) .portrait-title,
+html:not(.dark) .section-subheading,
+html:not(.dark) .list-disc,
+html:not(.dark) .description {
+  color: #000000 !important; 
 }
 
-.hb-page-wrapper h1,
-.hb-page-wrapper h2,
-.hb-page-wrapper h3,
-.hb-page-wrapper h4,
-.hb-page-wrapper h5,
-.hb-page-wrapper h6 {
-  color: #000000 !important; /* Pure black for headings */
+html:not(.dark) .page-wrapper h1,
+html:not(.dark) .page-wrapper h2,
+html:not(.dark) .page-wrapper h3,
+html:not(.dark) .page-wrapper h4,
+html:not(.dark) .page-wrapper h5,
+html:not(.dark) .page-wrapper h6 {
+  color: #000000;  /* Pure black for headings */
 }
 
-.hb-page-wrapper a {
-  color: #0056b3 !important; /* A standard, accessible blue for links */
+html:not(.dark) .page-wrapper a {
+  color: #0056b3; /* A standard, accessible blue for links */
 }
 
-
-/* --- Overrides for Dark Mode --- */
-/* When the .dark class is applied... */
-.dark .hb-page-wrapper {
-  color: #ced4da !important; /* A light grey that's easy on the eyes */
+html.dark .bio-text,
+html.dark .portrait-title,
+html.dark .section-subheading,
+html.dark .list-disc,
+html.dark .description {
+  color: #ced4da; /* A light grey that's easy on the eyes */
 }
 
-.dark .hb-page-wrapper h1,
-.dark .hb-page-wrapper h2,
-.dark .hb-page-wrapper h3,
-.dark .hb-page-wrapper h4,
-.dark .hb-page-wrapper h5,
-.dark .hb-page-wrapper h6 {
-  color: #f8f9fa !important; /* An off-white for headings */
+html.dark .page-wrapper h1,
+html.dark .page-wrapper h2,
+html.dark .page-wrapper h3,
+html.dark .page-wrapper h4,
+html.dark .page-wrapper h5,
+html.dark .page-wrapper h6 {
+  color: #f8f9fa; /* An off-white for headings */
 }
 
-.dark .hb-page-wrapper a {
-  color: #69a6ff !important; /* A lighter, brighter blue for links */
+html.dark .page-wrapper a {
+  color: #69a6ff; /* A lighter, brighter blue for links */
 }

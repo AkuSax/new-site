@@ -37,7 +37,7 @@ profiles:
 interests:
   - Computational Biology
   - Artifical Intelligence
-  - Crosswords
+  - Biomedical Image Analysis
 
 education:
   - area: B.S. Computational Biology, B.S. Mathematics
@@ -145,4 +145,4 @@ work:
 
 ## About Me
 
-Hello! I am a student at UT Austin studying computational biology and mathematics. I am interested in using a variety of AI/ML techniques to tackle problems in the biomedical space. Take a look at what I've been working on below!
+Hello! I am a student at UT Austin studying computational biology and mathematics. I am interested in using a variety of AI/ML techniques to tackle problems in the biomedical space. Take a look at what I've been working on by clicking the Projects button!
