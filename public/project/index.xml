@@ -5,7 +5,7 @@
     <link>http://localhost:1313/project/</link>
       <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_b250e611cfdeafa0.png</url>
       <title>Projects</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Exhale Prediction (Work in Progress)</title>
       <link>http://localhost:1313/project/exhale_pred/</link>
-      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/exhale_pred/</guid>
       <description>&lt;p&gt;Trying to predict an exhale image from inhale using VAE latents.&lt;/p&gt;</description>
     </item>
@@ -23,9 +23,34 @@
     <item>
       <title>FibLDM (Work in Progress)</title>
       <link>http://localhost:1313/project/fibldm/</link>
-      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/fibldm/</guid>
-      <description>&lt;p&gt;I am fine-tuning Stable Diffusion using LoRA and DreamBooth to generate axial CT scans of lungs with fibrosis.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I am fine-tuning Stable Diffusion using LoRA and DreamBooth to generate axial CT scans of lungs with fibrosis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BIO 377 Final Presentation</title>
+      <link>http://localhost:1313/project/bio377_final_pres/</link>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/bio377_final_pres/</guid>
+      <description>&lt;p&gt;Researched and presented on the best approach to aligning tag-seq data when no or a poor species-specific reference transcriptome is available.&lt;/p&gt;
+&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vST1byu3c_tDvOSrUdWnM_CN6LnsoJ_YWkxy1aHf8jVsrlXMFuYxpJyzaQgZFKBrfMRc8xjZyjJ57Ta/pubembed?start=false&amp;loop=false&amp;delayms=60000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;You can also 
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BIO 394 Talk</title>
+      <link>http://localhost:1313/project/bio394m_talk/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/bio394m_talk/</guid>
+      <description>&lt;p&gt;Here are the slides from my presentation. You can click through them directly.&lt;/p&gt;
+&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vRJxHLSh1xtpCN4tZrPBARXNFib95S0-2R_alKnKZ60YXg4LqMTOTTeDZ9K3Hxmsq0mtvfkT8YPrzI5/pubembed?start=false&amp;loop=false&amp;delayms=60000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;You can also 
+.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

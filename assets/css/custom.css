@@ -82,3 +82,11 @@ html.dark .page-wrapper h6 {
 html.dark .page-wrapper a {
   color: #69a6ff; /* A lighter, brighter blue for links */
 }
+
+time.truncate.text-sm {
+  display: none;
+}
+
+span.text-xs.text-neutral-500.dark\:text-neutral-400 {
+  display: none;
+}
