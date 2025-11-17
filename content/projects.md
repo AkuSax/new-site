@@ -13,6 +13,8 @@ sections:
     content:
       title: Projects
       text:
+      sort_by: 'weight'
+      sort_ascending: true
       filters:
         folders:
           - project
