@@ -1,7 +1,7 @@
 ---
 title: "BIO 377 Final Presentation"
-date: 2023-10-30
-summary: "Researched and presented in a group on the best approach to aligning tag-seq data when no or a poor species-specific reference transcriptome is available."
+date: 2025-2-4
+summary: "Researched and presented on the best approach to aligning tag-seq data when no or a poor species-specific reference transcriptome is available."
 ---
 
 Here are the slides from my presentation. You can click through them directly.
