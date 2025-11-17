@@ -1,5 +1,6 @@
 ---
 title: "BIO 394 Talk"
+weight: 4
 date: 2023-10-30
 summary: "Researched and presented on sequence alignment algorithms (Smith-Waterman) and modern tools like DIAMOND and DeepClust, including k-mer hashing and vertex cover applications."
 ---
