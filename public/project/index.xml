@@ -30,25 +30,40 @@
     </item>
     
     <item>
-      <title>BIO 377 Final Presentation</title>
-      <link>http://localhost:1313/project/bio377_final_pres/</link>
+      <title>BIO 394 Talk</title>
+      <link>http://localhost:1313/project/bio394m_talk/</link>
       <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/bio377_final_pres/</guid>
-      <description>&lt;p&gt;Researched and presented on the best approach to aligning tag-seq data when no or a poor species-specific reference transcriptome is available.&lt;/p&gt;
-&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vST1byu3c_tDvOSrUdWnM_CN6LnsoJ_YWkxy1aHf8jVsrlXMFuYxpJyzaQgZFKBrfMRc8xjZyjJ57Ta/pubembed?start=false&amp;loop=false&amp;delayms=60000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;You can also 
+      <guid>http://localhost:1313/project/bio394m_talk/</guid>
+      <description>&lt;p&gt;Researched and presented on sequence alignment algorithms (Smith-Waterman) and modern tools like DIAMOND and DeepClust, including k-mer hashing and vertex cover applications. Empty slides were for writing on chalkboard.&lt;/p&gt;
+&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vRJxHLSh1xtpCN4tZrPBARXNFib95S0-2R_alKnKZ60YXg4LqMTOTTeDZ9K3Hxmsq0mtvfkT8YPrzI5/pubembed?start=false&amp;loop=false&amp;delayms=60000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;You can also view the slides directly 
 .&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>BIO 394 Talk</title>
-      <link>http://localhost:1313/project/bio394m_talk/</link>
+      <title>Pan-Cancer Classification Using Multi-Omic Synergy</title>
+      <link>http://localhost:1313/project/tgca-classifier/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tgca-classifier/</guid>
+      <description>&lt;p&gt;This project investigates the hypothesis that a machine learning model&amp;rsquo;s ability to classify cancer types can be significantly improved by integrating multi-omic data.&lt;/p&gt;
+&lt;p&gt;Cancer is a disease driven by genomic changes that manifest as functional changes in the transcriptome. While studies often use one data type, such as gene expression (RNA-seq), this project tests whether a model given both the structural blueprint (Copy Number Variation or CNV) and the functional activity (RNA-seq) will build a more robust and synergistic model, achieving a new level of predictive accuracy.&lt;/p&gt;
+&lt;div style=&#34;width: 200%; margin-left: -50%;&#34;&gt;
+    &lt;iframe src=&#34;http://localhost:1313/projects/tgca-classifier/classifer.html&#34; width=&#34;100%&#34; height=&#34;800px&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;You can also view the standalone notebook 
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BIO 377 Final Presentation</title>
+      <link>http://localhost:1313/project/bio377_final_pres/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/bio394m_talk/</guid>
-      <description>&lt;p&gt;Here are the slides from my presentation. You can click through them directly.&lt;/p&gt;
-&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vRJxHLSh1xtpCN4tZrPBARXNFib95S0-2R_alKnKZ60YXg4LqMTOTTeDZ9K3Hxmsq0mtvfkT8YPrzI5/pubembed?start=false&amp;loop=false&amp;delayms=60000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;You can also 
+      <guid>http://localhost:1313/project/bio377_final_pres/</guid>
+      <description>&lt;p&gt;Researched and presented on the best approach to aligning tag-seq data when no or a poor species-specific reference transcriptome is available.&lt;/p&gt;
+&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vST1byu3c_tDvOSrUdWnM_CN6LnsoJ_YWkxy1aHf8jVsrlXMFuYxpJyzaQgZFKBrfMRc8xjZyjJ57Ta/pubembed?start=false&amp;loop=false&amp;delayms=60000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;You can also view the slides directly 
 .&lt;/p&gt;
 </description>
     </item>

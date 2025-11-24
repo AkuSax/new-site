@@ -8,9 +8,11 @@
   <url>
     <loc>http://localhost:1313/project/fibldm/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/project/bio377_final_pres/</loc><lastmod>2025-02-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/project/bio394m_talk/</loc><lastmod>2025-02-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/project/bio394m_talk/</loc><lastmod>2023-10-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/project/tgca-classifier/</loc><lastmod>2024-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/project/bio377_final_pres/</loc><lastmod>2023-10-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/event/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
