@@ -7,6 +7,8 @@ summary: "Researched and presented on the best approach to aligning tag-seq data
 
 Researched and presented on the best approach to aligning tag-seq data when no or a poor species-specific reference transcriptome is available.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vST1byu3c_tDvOSrUdWnM_CN6LnsoJ_YWkxy1aHf8jVsrlXMFuYxpJyzaQgZFKBrfMRc8xjZyjJ57Ta/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div style="margin-left: -25%;">
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vST1byu3c_tDvOSrUdWnM_CN6LnsoJ_YWkxy1aHf8jVsrlXMFuYxpJyzaQgZFKBrfMRc8xjZyjJ57Ta/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
 You can also view the slides directly [here](https://docs.google.com/presentation/d/1IewznBGg9qmjZ-arke5zr-DTkBPCgfkxIfA_jGTU3FA/edit?slide=id.p#slide=id.p).
